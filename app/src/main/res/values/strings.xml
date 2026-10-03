@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HUSTIDCard</string>
+
+    <string name="university_name_vi">ĐẠI HỌC BÁCH KHOA HÀ NỘI</string>
+    <string name="university_name_en">HANOI UNIVERSITY OF SCIENCE AND TECHNOLOGY</string>
+
+    <string name="full_name_label">Họ tên / Name</string>
+    <string name="full_name">DƯƠNG MINH HIỆP</string>
+
+    <string name="date_of_birth_label">Ngày sinh / D.O.B</string>
+    <string name="date_of_birth">07/04/2005</string>
+
+    <string name="school_name">Trường Công nghệ Thông tin và Truyền thông</string>
+    <string name="major_name_vi">IT2: Kỹ thuật Máy tính - K68</string>
+    <string name="major_name_en">Computer Engineering</string>
+
+    <string name="valid_until_label">Giá trị đến / Valid Until</string>
+    <string name="valid_until">30/07/2027</string>
+
+    <string name="student_id_label">MSSV / ID No.</string>
+    <string name="student_id">20235324</string>
+
+    <string name="student_card_vi">THẺ SINH VIÊN</string>
+    <string name="student_card_en">\u0020/ Student ID Card</string>
+</resources>
